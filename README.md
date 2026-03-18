@@ -57,7 +57,7 @@ El equipo implementa Scrum para el desarrollo del proyecto, organizando el traba
 ## Tablero de trabajo (Scrum)
 
 Trello público:
-https://TU-LINK-DE-TRELLO
+https://trello.com/invite/b/69ba4afc240dfeadde2297aa/ATTIbf9e799cd97827ce95b8bce5b6147651430AEFE3/sistema-web-gimnasio-dss404
 
 
 
