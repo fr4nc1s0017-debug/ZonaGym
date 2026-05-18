@@ -78,7 +78,7 @@ INSERT INTO usuarios (nombre, apellidos, email, password_hash, rol) VALUES
 
 -- Usuario demo      (password: User123!)
 INSERT INTO usuarios (nombre, apellidos, email, password_hash, rol) VALUES
-('Carlos', 'Mendoza', 'carlos@email.com',
+('fran', 'lopez', 'fran@email.com',
  '$2y$10$TKh8H1.PfuA2Pi/1Orf4bueXBg/6klhMv1a2SVWfIJ8yBJqGEhFRu', 'usuario');
 
 -- Membresías
