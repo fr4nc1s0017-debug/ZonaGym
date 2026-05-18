@@ -16,12 +16,9 @@ Digitalizar los procesos del gimnasio para mejorar la organización, control fin
 
 ## Tecnologías utilizadas
 
-* PHP 8.x
-* Laravel 11
-* MySQL
+* PHP
+* MySQL, PHPmyAdmin (pruebas con la base)
 * HTML, CSS, JavaScript
-* Tailwind CSS
-
 
 
 ## Metodología de trabajo: SCRUM
@@ -39,18 +36,9 @@ El equipo implementa Scrum para el desarrollo del proyecto, organizando el traba
 
 ## Roles del equipo
 
-* *Scrum Master / Coordinador:*
-  Rodrigo Hernández Ordoñez
-  Encargado de organizar el equipo, gestionar Trello y eliminar bloqueos.
-
-* *Product Owner:*
-  Rodrigo Hernández Ordoñez
-  Define requerimientos y prioridades del sistema.
-
-* *Development Team:*
-
-  * Francisco Santos López → Backend (Laravel, Base de datos)
-  * Gabriel Esquivel Rivera → Frontend / UI (HTML, CSS, JS, Figma)
+* Rodrigo Hernández Ordoñez → Organizador, frontend.
+* Francisco Santos López → Backend (Manejo de los datos internos)
+* Gabriel Esquivel Rivera → creacion de la base de dado en MySQL, script SQL
 
 
 
