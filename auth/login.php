@@ -99,11 +99,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             ¿No tienes cuenta?
             <a href="/zonagym2/auth/registro.php" style="color:var(--accent)">Regístrate aquí</a>
         </p>
-
-        <div class="auth-demo">
-            <p><strong>Cuentas de demostración:</strong></p>
-            <p>Admin: <code>admin@zonagym.com</code> / <code>123456admin</code></p>
-        </div>
     </div>
 </div>
 
